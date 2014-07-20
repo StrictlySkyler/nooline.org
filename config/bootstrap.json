@@ -1,0 +1,6 @@
+{
+  "settings": {
+    "allow-signup": true,
+    "EXPIRY": 3600000
+  }
+}
